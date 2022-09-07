@@ -1,13 +1,13 @@
-### 🤞 Nice way to meet me
+### Hi there!&nbsp;👋&nbsp;
 
 <p>
-  Hi there!&nbsp;👋&nbsp;  I'm <b>Frontend developer</b> skilled in APP and WEB.🚀<br/>
+  I'm a <b>Frontend developer</b> skilled in APP and WEB.<br/>
   I develop cross-platforms mobile app, ReactNative.<br/><br/>
   I'm interested in UI/UX design with users in mind.<br/>
   and I love soccer ⚽️, books 📚 and dogs 🐕. <br/>
 </p>
 
-### 💪 Skills
+### Skills 💪
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>

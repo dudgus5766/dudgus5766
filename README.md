@@ -2,7 +2,7 @@
 
 <p>
   I'm a <b>Frontend developer</b> skilled in APP and WEB.<br/>
-  I develop cross-platforms mobile app, ReactNative.<br/><br/>
+  I develop cross-platforms mobile app, ReactNative.<br/>
   I'm interested in UI/UX design with users in mind.<br/>
 </p>
 
